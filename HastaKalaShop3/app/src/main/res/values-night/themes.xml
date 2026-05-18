@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HastaKalaShop" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Dark Mode Colors -->
+        <item name="colorPrimary">#D1BCFF</item>
+        <item name="colorOnPrimary">#381E72</item>
+        <item name="colorSurface">#1C1B1F</item>
+        <item name="colorOnSurface">#E6E1E5</item> <!-- This will be the text color (White/Light) -->
+        <item name="colorOnSurfaceVariant">#CAC4D0</item>
+        <item name="android:windowBackground">#1C1B1F</item>
+    </style>
+</resources>

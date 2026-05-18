@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HastaKalaShop" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Main theme colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+
+        <!-- Modern Active Indicator (The Pill) Color -->
+        <item name="colorSecondaryContainer">#E1D5F9</item>
+        <item name="colorOnSecondaryContainer">@color/primary</item>
+    </style>
+
+    <style name="Theme.HastaKalaShop" parent="Base.Theme.HastaKalaShop" />
+</resources>
